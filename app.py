@@ -11,7 +11,7 @@ from PIL import Image
 MODELS = ["gemini-3.7-flash", "gemini-3.5-flash", "gemini-3.5-flash-lite"]
 
 # PASTE YOUR REAL KEY HERE (inside the quotes)
-API_KEY = "AQ.Ab8RN6LgRjGXib5UIV7EimgA4hqeAXPwZMWJYaNGukBhtXpBcA"
+API_KEY = ""
 
 BASE_PROMPT = (
     "You are an expert image analyst. Use short, clear bullet points under simple headings. "
